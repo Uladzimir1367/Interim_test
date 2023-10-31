@@ -1,0 +1,13 @@
+2023-10-29 Sunday 23:36:  Operation: 1. Add note  ->  Result: You interrupted the creating of note.
+2023-10-30 Monday 22:29:  Operation: 1. Add note  ->  Result: You interrupted the creating of note.
+2023-10-30 Monday 22:29:  Operation: 4. Show all notes  ->  Result: ERROR! File does not exist! You have not created any notes yet.
+2023-10-31 Tuesday 21:43:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 21:47:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 21:51:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 21:53:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 21:59:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 22:00:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 22:02:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 22:05:  Operation: 1. Add note  ->  Result: Note created!
+2023-10-31 Tuesday 22:10:  Operation: 3. Change / delete note -> 1. Change note by ID  ->  Result: Note changed.
+2023-10-31 Tuesday 22:12:  Operation: 3. Change / delete note -> 2. Delete note by ID  ->  Result: Note deleted.
